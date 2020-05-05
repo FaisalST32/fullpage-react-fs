@@ -1,0 +1,64 @@
+.fullPanel {
+  position: relative;
+	height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.screenPane {
+	overflow: hidden;
+	height: 100vh;
+}
+
+.panelsContainer {
+	position: relative;
+	transition: all 1s ease;
+}
+
+.navIndicators {
+  position: fixed;
+  right: 20px;
+  top: 50vh;
+  transform: translateY(-50%);
+}
+
+.indicator {
+  font-size: 0.4rem;
+  text-align: center;
+  transition: font-size 200ms ease;
+  cursor: pointer;
+  color: purple
+}
+
+.indicator.active {
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+.indicator:hover:not(.active) {
+  font-size: 0.6rem;
+  line-height: 1.5;
+}
+
+
+@media screen and (max-width: 1000px) {
+	.fullPanel {
+    min-height: 100vh;
+    height: auto;
+	}
+	
+	.screenPane {
+		overflow: auto;
+		height: auto;
+	}
+	
+	.panelsContainer {
+		position: static;
+		transition: all 1s ease;
+  }
+  
+  .navIndicators {
+    display: none;
+  }
+}
