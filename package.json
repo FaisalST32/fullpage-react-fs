@@ -1,7 +1,15 @@
 {
   "name": "fullpage-react-fs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight react library to create fullpage websites",
+  "keywords": [
+    "fullpage",
+    "fullpagejs",
+    "fullpage-react",
+    "reactjs",
+    "react",
+    "faisal"
+  ],
   "author": "FaisalST32",
   "license": "MIT",
   "repository": "FaisalST32/fullpage-react-fs",
