@@ -17,7 +17,7 @@
 	transition: all 1s ease;
 }
 
-.navIndicators {
+.navIndicators { 
   position: fixed;
   right: 20px;
   top: 50vh;

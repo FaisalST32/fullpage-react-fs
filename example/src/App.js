@@ -1,7 +1,8 @@
 import React from 'react'
 
-import { FullPageContainer, FullPagePanel } from 'fullpage-react-fs'
+import { FullPageContainer, FullPagePanel } from 'fullpage-react-fs';
 import 'fullpage-react-fs/dist/index.css'
+
 
 const App = () => {
   return (
@@ -19,4 +20,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App 
