@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fullpage-react-fs/static/css/main.b59db21a.chunk.css",
+    "main.js": "/fullpage-react-fs/static/js/main.b8ae1aa5.chunk.js",
+    "main.js.map": "/fullpage-react-fs/static/js/main.b8ae1aa5.chunk.js.map",
+    "runtime-main.js": "/fullpage-react-fs/static/js/runtime-main.3767435c.js",
+    "runtime-main.js.map": "/fullpage-react-fs/static/js/runtime-main.3767435c.js.map",
+    "static/js/2.9bb2a4bf.chunk.js": "/fullpage-react-fs/static/js/2.9bb2a4bf.chunk.js",
+    "static/js/2.9bb2a4bf.chunk.js.map": "/fullpage-react-fs/static/js/2.9bb2a4bf.chunk.js.map",
+    "index.html": "/fullpage-react-fs/index.html",
+    "precache-manifest.f77b173263077d3ee349e41ad09df90b.js": "/fullpage-react-fs/precache-manifest.f77b173263077d3ee349e41ad09df90b.js",
+    "service-worker.js": "/fullpage-react-fs/service-worker.js",
+    "static/css/main.b59db21a.chunk.css.map": "/fullpage-react-fs/static/css/main.b59db21a.chunk.css.map",
+    "static/js/2.9bb2a4bf.chunk.js.LICENSE.txt": "/fullpage-react-fs/static/js/2.9bb2a4bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3767435c.js",
+    "static/js/2.9bb2a4bf.chunk.js",
+    "static/css/main.b59db21a.chunk.css",
+    "static/js/main.b8ae1aa5.chunk.js"
+  ]
+}
