@@ -8,7 +8,9 @@ Here's a preview
 
 ![faisalrashid.online](https://apifr.azurewebsites.net/uploads/637241257217983881_faisalrashid.gif 'faisalrashid.online')
 
-You can check out a live demo at [faisalrashid.online](https://www.faisalrashid.online)
+You can check out a live demo [here](https://faisalst32.github.io/fullpage-react-fs/)
+
+View it being used in my personal blog at [faisalrashid.online](https://www.faisalrashid.online)
 
 ## Install
 
